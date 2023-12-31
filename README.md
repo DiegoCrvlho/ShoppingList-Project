@@ -1,3 +1,3 @@
-This is a project is about a shopping list, where the users can insert their objects there and see what they need to buy and not forget the items!
+This is an easy-to-use shopping list app that lets you add items, categorize them, and set reminders to ensure you never forget a thing at the store!
 
-#THIS IS A REACT PROJECT
+#THIS IS A REACT.js PROJECT
